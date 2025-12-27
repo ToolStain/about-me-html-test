@@ -2,7 +2,7 @@
     max-width: 900px;
     margin: 55px auto;
     background: rgba(3, 2, 15, 0.75);
-    outline: 2px solid black
+    outline: 2px solid rgb(0, 0, 25)
 }
 .panelText {
     max-width: 800px;
